@@ -1,0 +1,6 @@
+[submodule ".devcontainer"]
+	path = .devcontainer
+	url = git@github.com:hayatoshibahara/.devcontainer
+[submodule "TinyZero"]
+	path = TinyZero
+	url = git@github.com:Jiayi-Pan/TinyZero.git
